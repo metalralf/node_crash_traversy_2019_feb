@@ -1,0 +1,19 @@
+{
+  "name": "node_crash_traversy_2019_feb",
+  "version": "0.1.0",
+  "description": "Practice project from Brad Traversy 2019 Feb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "metalralf",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

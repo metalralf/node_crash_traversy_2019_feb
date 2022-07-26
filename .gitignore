@@ -1,0 +1,6 @@
+.idea
+.vscode
+node_modules
+reference
+logger.js
+person.js
